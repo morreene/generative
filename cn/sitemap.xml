@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://generative.plus/cn/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://generative.plus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://generative.plus/cn/"
+                />
+  </url>
+  
+  <url>
     <loc>https://generative.plus/cn/blog/post-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
@@ -134,21 +149,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://generative.plus/cn/products/product-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/cn/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://generative.plus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://generative.plus/cn/"
                 />
   </url>
   
