@@ -228,6 +228,20 @@
   </url>
   
   <url>
+    <loc>https://generative.plus/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://generative.plus/cn/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://generative.plus/about/"
+                />
+  </url>
+  
+  <url>
     <loc>https://generative.plus/categories/</loc>
     <xhtml:link
                 rel="alternate"
