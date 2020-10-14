@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://generative.plus/cn/portfolio/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://generative.plus/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://generative.plus/cn/portfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://generative.plus/cn/portfolio/product-1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://generative.plus/portfolio/product-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://generative.plus/cn/portfolio/product-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://generative.plus/cn/portfolio/product-2/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://generative.plus/portfolio/product-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://generative.plus/cn/portfolio/product-2/"
+                />
+  </url>
+  
+  <url>
     <loc>https://generative.plus/cn/products/product-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
@@ -59,6 +104,21 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://generative.plus/cn/blog/post-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://generative.plus/cn/portfolio/product-4/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://generative.plus/portfolio/product-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://generative.plus/cn/portfolio/product-4/"
                 />
   </url>
   
@@ -138,6 +198,21 @@
   </url>
   
   <url>
+    <loc>https://generative.plus/cn/portfolio/product-5/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://generative.plus/portfolio/product-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://generative.plus/cn/portfolio/product-5/"
+                />
+  </url>
+  
+  <url>
     <loc>https://generative.plus/cn/products/product-5/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
@@ -179,6 +254,21 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://generative.plus/cn/blog/post-4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://generative.plus/cn/portfolio/product-3/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://generative.plus/portfolio/product-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://generative.plus/cn/portfolio/product-3/"
                 />
   </url>
   

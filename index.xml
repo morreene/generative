@@ -10,10 +10,28 @@
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://generative.plus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple Watch - Product 1</title>
+      <link>https://generative.plus/portfolio/product-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://generative.plus/portfolio/product-1/</guid>
+      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+    </item>
+    
+    <item>
+      <title>Apple Watch - Product 1</title>
       <link>https://generative.plus/products/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
       <guid>https://generative.plus/products/product-1/</guid>
+      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+    </item>
+    
+    <item>
+      <title>Galaxy Watch</title>
+      <link>https://generative.plus/portfolio/product-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://generative.plus/portfolio/product-2/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
@@ -44,6 +62,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <guid>https://generative.plus/blog/post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Motorola Watch</title>
+      <link>https://generative.plus/portfolio/product-4/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://generative.plus/portfolio/product-4/</guid>
+      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
     <item>
@@ -84,6 +111,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     
     <item>
       <title>Redmi Watch</title>
+      <link>https://generative.plus/portfolio/product-5/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://generative.plus/portfolio/product-5/</guid>
+      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+    </item>
+    
+    <item>
+      <title>Redmi Watch</title>
       <link>https://generative.plus/products/product-5/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -109,6 +145,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <guid>https://generative.plus/blog/post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Xiaomi Watch</title>
+      <link>https://generative.plus/portfolio/product-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://generative.plus/portfolio/product-3/</guid>
+      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
     <item>
