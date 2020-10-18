@@ -1,6 +1,7 @@
 body {
-    font-family: josefin sans,sans-serif;
-    font-family: 'Source Sans Pro', sans-serif;
+    /* font-family: josefin sans,sans-serif;
+    font-family: 'Source Sans Pro', sans-serif; */
+    font-family: 'Montserrat', sans-serif;
 }
 .image{
     position:relative;
@@ -23,8 +24,8 @@ body {
     padding: 1.5rem 1rem;
 }
 .nav-link {
-    font-size: 16px;
-    font-weight: 100;
+    font-size: 12px;
+    font-weight: 300;
     padding: 10px 20px!important;
 }
 
@@ -36,4 +37,22 @@ body {
     border: 0;
     border-bottom: 1px solid #ababab;
     border-radius: 0;
+}
+@media (min-width: 1200px) {
+    .container{
+        max-width: 970px;
+    }
+}
+
+.gallery .block {
+    /* padding: 20px; */
+    padding: 0px;
+
+    position: relative;
+}
+
+.product-info h4 {
+    font-size: 14px;
+    font-weight: 300;
+    padding: 10px 20px!important;
 }
