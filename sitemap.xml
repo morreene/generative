@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://generative.plus/portfolio/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <loc>https://generative.plus/products/</loc>
+    <lastmod>2020-01-17T01:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://generative.plus/products/</loc>
+    <loc>https://generative.plus/</loc>
+    <lastmod>2020-01-17T01:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://generative.plus/products/product-1/</loc>
+    <lastmod>2020-01-17T01:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://generative.plus/portfolio/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
@@ -18,32 +28,12 @@
   </url>
   
   <url>
-    <loc>https://generative.plus/products/product-2/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://generative.plus/blog/post-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://generative.plus/blog/post-5/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/blog/post-6/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/blog/post-11/</loc>
+    <loc>https://generative.plus/blog/post-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
@@ -53,12 +43,37 @@
   </url>
   
   <url>
-    <loc>https://generative.plus/blog/post-8/</loc>
+    <loc>https://generative.plus/blog/post-4/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://generative.plus/blog/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://generative.plus/products/product-2/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://generative.plus/products/product-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://generative.plus/products/product-4/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://generative.plus/products/product-5/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://generative.plus/products/product-6/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
@@ -69,26 +84,6 @@
   
   <url>
     <loc>https://generative.plus/products/product-8/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/blog/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/products/product-1/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/products/product-6/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/products/product-5/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
@@ -109,41 +104,6 @@
   
   <url>
     <loc>https://generative.plus/portfolio/product-4/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/blog/post-10/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/blog/post-2/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/blog/post-9/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/blog/post-12/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/blog/post-4/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/blog/post-7/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://generative.plus/products/product-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
