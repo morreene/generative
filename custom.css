@@ -1,7 +1,9 @@
 body {
     /* font-family: josefin sans,sans-serif;
     font-family: 'Source Sans Pro', sans-serif; */
-    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Libre Baskerville', serif;
 }
 .image{
     position:relative;
@@ -24,7 +26,7 @@ body {
     padding: 1.5rem 1rem;
 }
 .nav-link {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 300;
     padding: 10px 20px!important;
 }
