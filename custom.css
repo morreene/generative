@@ -3,7 +3,8 @@ body {
     font-family: 'Source Sans Pro', sans-serif; */
     /* font-family: 'Source Sans Pro', sans-serif; */
     /* font-family: 'Montserrat', sans-serif; */
-    font-family: 'Libre Baskerville', serif;
+    /* font-family: 'Libre Baskerville', serif; */
+    font-family: 'Anaheim', sans-serif;
 }
 .image{
     position:relative;
@@ -26,7 +27,7 @@ body {
     padding: 1.5rem 1rem;
 }
 .nav-link {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 300;
     padding: 10px 20px!important;
 }
@@ -54,7 +55,7 @@ body {
 }
 
 .product-info h4 {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 300;
     padding: 10px 20px!important;
 }
