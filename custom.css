@@ -68,3 +68,6 @@ body {
     top: 0px;
     background: rgba(255,255,255,.65);
   }
+  .navbar {
+      padding: 1.5rem 0rem;
+  }
